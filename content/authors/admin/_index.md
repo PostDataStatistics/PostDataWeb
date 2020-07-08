@@ -1,48 +1,25 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio: Página web del Proyecto Postdata.
+email: "postdatastatistics@gmail.com"
 organizations:
-- name: Stanford University
+- name: 
   url: ""
-role: Professor of Artificial Intelligence
+role: 
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/PostDataStats
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/PostDataStatistics
 superuser: true
-title: Nelson Bighetti
+title: PostData
 user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bienvenidos a la página web del proyecto PostData. Esta página contiene los ficheros del *Curso de Introducción a la Estadística* y las entradas más recientes del blog PostData que hasta 2016 estuvo [alojado en Wordpress](https://fernandosansegundo.wordpress.com/)
