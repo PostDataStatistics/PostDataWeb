@@ -20,8 +20,6 @@ social:
 superuser: true
 title: PostData
 user_groups:
-- Researchers
-- Visitors
 ---
 
 Bienvenidos a la página web del proyecto PostData. Esta página contiene los ficheros del *Curso de Introducción a la Estadística* y las entradas más recientes del blog PostData que hasta 2016 estuvo [alojado en Wordpress](https://fernandosansegundo.wordpress.com/)
