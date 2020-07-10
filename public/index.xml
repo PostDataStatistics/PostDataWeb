@@ -35,24 +35,6 @@
     </item>
     
     <item>
-      <title>Usando proyectos de RStudio con Dropbox</title>
-      <link>/post/usando-proyectos-de-rstudio-con-dropbox/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/usando-proyectos-de-rstudio-con-dropbox/</guid>
-      <description>
-
-
-&lt;p&gt;Escribo esta entrada esencialmente para recordarme a mi mismo en el futuro este problema y lo más parecido a una solución que he encontrado.&lt;/p&gt;
-&lt;p&gt;Al trabajar con un &lt;a href=&#34;https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects&#34;&gt;proyecto de RStudio&lt;/a&gt; alojado en una carpeta dentro de mi Dropbox aparecen cada pocos minutos advertencias como esta:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/2020-07-09-01.png&#34; /&gt;
-La forma de reducir esta molestia, como se describe en esta &lt;a href=&#34;https://support.rstudio.com/hc/en-us/articles/200534477Using&#34;&gt;página de ayuda de RStudio&lt;/a&gt;, consiste en usar la función de &lt;em&gt;Sincronización selectiva&lt;/em&gt; de Dropbox como se ilustra en esta figura:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/2020-07-09-02.png&#34; /&gt;
-Debemos navegar hasta el directorio donde se encuentra alojado el proyecto de RStudio y deseleccionar la carpeta (oculta) llamada .Rprojuser. Hay más información en este foro de RStudio.&lt;/p&gt;
-&lt;p&gt;De momento esto es lo mejor que tengo. Si hay novedades actualizaré esta entrada.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Despedida de WordPress</title>
       <link>/post/despedida-de-wordpress/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
