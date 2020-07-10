@@ -1,0 +1,31 @@
+---
+title: 'ültimos posts en fernandosansegundo.com:'
+author: postdata
+date: '2020-07-10'
+slug: 2020-07-10-ultimos-posts-en-fernandosansegundo-com
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-07-10T13:07:52+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+# 2020-07-10. Incluir ficheros de texto en blogdown
+
+[Enlace al post](https://www.fernandosansegundo.com/post/incluir-ficheros-de-texto-en-blogdown/)
+
+
+
+# 2020-07-09: Usando proyectos de RStudio con Dropbox
+
+[Enlace al post](https://www.fernandosansegundo.com/post/usando-proyectos-de-rstudio-con-dropbox/)
+
+
+
